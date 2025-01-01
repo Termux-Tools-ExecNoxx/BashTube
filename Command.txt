@@ -1,0 +1,11 @@
+Download videos from YouTube, Facebook, Instagram and many more with this tool!  
+
+
+ Installation Commands
+
+apt install git 
+apt install python 
+git clone https://github.com/TrollSkull/BashTube
+cd BashTube
+pip install -r requirements.txt
+python bashtube.py
